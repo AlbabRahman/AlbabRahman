@@ -33,5 +33,9 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbabRahman&show_icons=true&locale=en&theme=tokyonight" alt="AlbabRahman" /></p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/output/pacman-contribution-graph.svg">
+</picture>
 
