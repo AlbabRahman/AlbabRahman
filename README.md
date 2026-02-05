@@ -53,7 +53,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 
   <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbabRahman&layout=compact&theme=tokyonight"
+        src="https:/github-readme-stats-albabrahmans-projects.vercel.app/api/top-langs?username=AlbabRahman&layout=compact&theme=tokyonight"
         width="100%"
       />
     </td>
@@ -61,7 +61,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
   <td width="63%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=AlbabRahman&show_icons=true&theme=tokyonight"
+        src="https:/github-readme-stats-albabrahmans-projects.vercel.app/api?username=AlbabRahman&show_icons=true&theme=tokyonight"
         width="100%"
       />
     </td>
