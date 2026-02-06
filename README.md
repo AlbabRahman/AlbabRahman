@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 <img align="center" alt="Coding" src="https://lanyard-profile-readme.vercel.app/api/612313416756887563?theme=dark">
 
-<img align="right" alt="Coding" width="550" src="https://spotify-live-banner.vercel.app/?spin=false&scan=true&eq_color=rainbow&theme=dark">
+<img align="right" alt="Coding" src="https://spotify-live-banner.vercel.app/?spin=false&scan=true&eq_color=rainbow&theme=dark">
 
 
 
