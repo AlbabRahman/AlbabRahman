@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 <table border="0">
   <tr>
-    <td width="420">
+    <td>
 
 ```js
 albab@github: ~ $ whoami
@@ -46,7 +46,7 @@ hobbies  • music, design, gaming
 </td>
 
   
-<img src="https://imgur.com/lnhuXTf.gif" align="right" width="520"/>
+<img src="https://imgur.com/lnhuXTf.gif" align="right" width="500"/>
   
   </tr>
 </table>
