@@ -46,7 +46,7 @@ hobbies  • music, design, gaming
 </td>
 
   
-<img src="https://imgur.com/lnhuXTf.gif" align="right" width="500"/>
+<img src="https://imgur.com/lnhuXTf.gif" align="right" width="480"/>
   
   </tr>
 </table>
