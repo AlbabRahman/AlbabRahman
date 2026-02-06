@@ -24,9 +24,9 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 
 
-<img align="center" alt="Coding" src="https://lanyard-profile-readme.vercel.app/api/612313416756887563?theme=dark">
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/612313416756887563?theme=dark">
 
-<img align="right" alt="Coding" src="https://spotify-live-banner.vercel.app/?spin=false&scan=true&eq_color=rainbow&theme=dark">
+<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=albab.rahman&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
 
 
 
