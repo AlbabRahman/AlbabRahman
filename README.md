@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 - ⚡ Fun fact: ...`
 -->
 
-<img src="https://imgur.com/lnhuXTf.gif" align="left"/>
+<img src="https://imgur.com/lnhuXTf.gif" align="left" width="400"/>
 
 <!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
 
