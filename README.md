@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
   <tr>
    <td align="left">
   🔴🟡🟢 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <b><font>Terminal</font></b>
 </td>
   </tr>
