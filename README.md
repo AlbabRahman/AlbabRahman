@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" height="200"
+<img align="center" alt="coding" width="1000" height="250"
 src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbannerhack.gif" />
 
 
@@ -33,8 +33,6 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
   🔴🟡🟢 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b><font color="#000000">Terminal</font></b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b><font color="#000000">⤢</font></b>&nbsp;
 </td>
   </tr>
   <tr>
