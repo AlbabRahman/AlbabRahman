@@ -4,8 +4,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 <h3 align="center">
   👨‍💻 Passionate Computer Science Undergraduate from Bangladesh 🇧🇩
-  
-</h3>
+  </h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://imgur.com/lnhuXTf.gif"> -->
 
@@ -48,9 +47,9 @@ learning • Flutter, React, Node.js, Rust,
 hobbies  • music, design, gaming, anime
 
 ```
-</td>
-    <img src="https://imgur.com/lnhuXTf.gif" align="right" width="450"/>
+</td> 
   </tr>
+        <img src="https://imgur.com/lnhuXTf.gif" align="right" width="450"/>
 </table>
 
 
