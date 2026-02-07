@@ -37,7 +37,6 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 ```js
 albab@github: ~ $ whoami
 ─────────────────────────────────────────
-
 os       • Manjaro x86_64
 shell    • bash 3.3.1
 
@@ -45,7 +44,6 @@ learning • Flutter, React, Node.js, Rust,
            Bash, Lua
 
 hobbies  • music, design, gaming, anime
-
 ```
 </td> 
   </tr>
