@@ -26,13 +26,13 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 <table>
   <tr>
-   <td align="left" bgcolor="#ffffff" height="20">
+   <td align="left">
   🔴🟡🟢 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b><font color="#000000">Terminal</font></b>
+  <b><font>Terminal</font></b>
 </td>
   </tr>
-  <tr align="left">
+  <tr>
     <td>
 
 ```js
