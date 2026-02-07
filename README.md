@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 -->
 
 
-<table>
+<table align="center">
   <tr>
    <td align="left">
   🔴🟡🟢 
