@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 -->
 
 
-<table align="50%">
+<table>
   <tr>
    <td align="left">
   🔴🟡🟢 
