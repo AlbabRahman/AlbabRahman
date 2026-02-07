@@ -28,7 +28,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
   <tr>
    <td align="left">
   🔴🟡🟢 
-  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b><font>Terminal</font></b>
 </td>
   </tr>
@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 
 ```js
 albab@github: ~ $ whoami
-──────────────────────────────────────────────
+─────────────────────────────────────────
 
 os       • Manjaro x86_64
 shell    • bash 3.3.1
@@ -45,7 +45,7 @@ shell    • bash 3.3.1
 learning • Flutter, React, Node.js, Rust,
            Bash, Lua
 
-hobbies  • music, design, gaming, anime.
+hobbies  • music, design, gaming, anime
 
 ```
 </td>
