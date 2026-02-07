@@ -49,7 +49,7 @@ hobbies  • music, design, gaming, anime
 ```
 </td> 
   </tr>
-  <img src="https://imgur.com/lnhuXTf.gif" align="right" width="450"/>
+  <img src="https://imgur.com/lnhuXTf.gif" align="right" width="420"/>
 </table>
          
 
