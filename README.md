@@ -23,15 +23,12 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
 - ⚡ Fun fact: ...`
 -->
 
-<!-- <img src="argonaut0.png" width="250" height="290" align="left"/> -->
 
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
+<table>
   <tr>
    <td align="left" bgcolor="#ffffff" height="20">
   🔴🟡🟢 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b><font color="#000000">Terminal</font></b>
 </td>
   </tr>
