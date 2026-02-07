@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" height="290"
+<img align="center" alt="coding" width="1000" height="200"
 src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbannerhack.gif" />
 
 
