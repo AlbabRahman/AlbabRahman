@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/AlbabRahman/AlbabRahman/main/discordbanne
   <b><font color="#000000">Terminal</font></b>
 </td>
   </tr>
-  <tr>
+  <tr align="left">
     <td>
 
 ```js
